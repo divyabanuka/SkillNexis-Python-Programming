@@ -87,9 +87,10 @@ SkillNexis-Python-Programming/
 
 Through these assignments and the mini project, I practiced Python fundamentals including variables, data types, input/output, conditional statements, loops, functions, operators, and basic problem-solving. I also gained practical experience in developing simple Python applications and organizing projects using GitHub.
 
----
 
-## 👩‍💻 Author
+👩‍💻 Author
 
-**Divya Banuka**  
+Divya Banuka
+
 B.Tech — Artificial Intelligence & Machine Learning
+
